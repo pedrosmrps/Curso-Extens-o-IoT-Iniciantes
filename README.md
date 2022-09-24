@@ -15,3 +15,6 @@ _________________________________________________________________________
 2) Projeto com Fotorresistor: realizado no dia 10/9/2022 com o professor Poyatos no tinkercad.
 <img src="Fotorresistor.png">
 
+Na programação em blocos, utilize assim:
+<img src="Código fotorresitor.png">
+
