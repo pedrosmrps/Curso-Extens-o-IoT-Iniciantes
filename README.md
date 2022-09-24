@@ -6,7 +6,7 @@ Curso de Extensão IoT para iniciantes
 
 <a href="piscapisca.ino.txt">Clique aqui para o código do arduino físico.
 
-<a hre="Bodacious Hillar.brd">Clique aqui para o código do tinkercad.
+<a href="Bodacious Hillar.brd">Clique aqui para o código do tinkercad.
 
 
 2) Projeto com Fotorresistor: realizado no dia 10/9/2022 com o professor Poyatos no tinkercad.
