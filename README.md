@@ -7,7 +7,7 @@ Curso de Extensão IoT para iniciantes
 
 <a href="piscapisca.ino.txt">Clique aqui para o código no arduino físico</a>
 
-<a href="Bodacious Hillar.brd">Clique aqui para o código do tinkercad</a>
+<a href="Bodacious Hillar.brd">Clique aqui para o código no tinkercad</a>
 
 _________________________________________________________________________
 
@@ -20,5 +20,7 @@ Na programação em blocos, utilize assim:
   
 Em relação aos códigos em texto:
   
-  <a href="Fotorresistor.ino.txt">Clique aqui para o código no arduino</a>
+<a href="Fotorresistor.ino.txt">Clique aqui para o código no arduino físico</a>
+  
+<a href="Fotorresistor.brd">Clique aqui para o código no tinkercad</a>
 
