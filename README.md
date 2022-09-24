@@ -30,3 +30,9 @@ Em relação aos códigos em texto:
   
 _________________________________________________________________________
 
+
+3) Projeto Sensor de Presença: realizado no dia 10/9/2022 com o professor Poyatos no tinkercad.
+<img src="Sensor de presença.png">
+
+Na programação em blocos, utilize assim:
+<img src="Código sensor.png">
