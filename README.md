@@ -4,10 +4,13 @@ Curso de Extensão IoT para iniciantes
 1) Projeto Pisca Pisca Leds: realizado no dia 3/9/2022 com o professor Poyatos no tinkercad.
 <img src="Pisca pisca.png">
 
+Na programação em blocos, utilize assim:
+<img src="Código pisca pisca.png">
 
-<a href="piscapisca.ino.txt">Clique aqui para o código no arduino físico</a>
 
-<a href="Bodacious Hillar.brd">Clique aqui para o código no tinkercad</a>
+<a href="piscapisca.ino.txt"><Clique aqui para o código no arduino físico></a>
+
+<a href="Bodacious Hillar.brd"><Clique aqui para o código no tinkercad></a>
 
 _________________________________________________________________________
 
@@ -20,7 +23,7 @@ Na programação em blocos, utilize assim:
   
 Em relação aos códigos em texto:
   
-<a href="Fotorresistor.ino.txt">Clique aqui para o código no arduino físico</a>
+<a href="Fotorresistor.ino.txt"><Clique aqui para o código no arduino físico></a>
   
-<a href="Fotorresistor.brd">Clique aqui para o código no tinkercad</a>
+<a href="Fotorresistor.brd"><Clique aqui para o código no tinkercad></a>
 
