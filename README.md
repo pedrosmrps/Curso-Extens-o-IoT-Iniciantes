@@ -7,6 +7,7 @@ Curso de Extensão IoT para iniciantes
 Na programação em blocos, utilize assim:
 <img src="Código pisca pisca.png">
 
+Em relação aos códigos em texto:
 
 <a href="piscapisca.ino.txt"><Clique aqui para o código no arduino físico></a>
 
