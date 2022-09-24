@@ -16,5 +16,5 @@ _________________________________________________________________________
 <img src="Fotorresistor.png">
 
 Na programação em blocos, utilize assim:
-<img src="Código fotorresitor.png">
+<img src="Código fotorresistor.png">
 
