@@ -36,3 +36,11 @@ _________________________________________________________________________
 
 Na programação em blocos, utilize assim:
 <img src="Código sensor.png">
+
+Em relação aos códigos em texto:
+
+<a href="Sensor de presença.ino.txt"><Clique aqui para o código no arduino físico></a>
+
+<a href="Sensor de presença.brd"><Clique aqui para o código no tinkercad></a>
+
+__________________________________________________________________________
