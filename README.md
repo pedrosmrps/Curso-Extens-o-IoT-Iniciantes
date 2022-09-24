@@ -27,4 +27,6 @@ Em relação aos códigos em texto:
 <a href="Fotorresistor.ino.txt"><Clique aqui para o código no arduino físico></a>
   
 <a href="Fotorresistor.brd"><Clique aqui para o código no tinkercad></a>
+  
+_________________________________________________________________________
 
