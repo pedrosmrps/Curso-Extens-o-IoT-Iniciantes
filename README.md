@@ -20,5 +20,5 @@ Na programação em blocos, utilize assim:
   
 Em relação aos códigos em texto:
   
-  <a href=Fotorresistor.ino.txt">Clique aqui para o código no arduino</a>
+  <a href="Fotorresistor.ino.txt">Clique aqui para o código no arduino</a>
 
